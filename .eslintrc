@@ -1,0 +1,6 @@
+{
+  "extends": "xo-space/browser",
+  "env": {
+    "jquery": true
+  }
+}

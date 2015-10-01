@@ -1,0 +1,39 @@
+Title: Inflated Curiosity
+
+----
+
+Description: 
+
+----
+
+Copyright: © Copyright (date: Year) (link: http://www.aristotheme.com text: Gorgo)
+
+----
+
+Showlanguageselector: false
+
+----
+
+Brandname: INFLATING CURIOSITY
+
+----
+
+Socials: 
+
+- 
+  name: Instagram
+  link: 'http://#'
+- 
+  name: Behance
+  link: 'http://#'
+- 
+  name: Dribbble
+  link: 'http://#'
+
+----
+
+Email: info@mymail.co
+
+----
+
+Phone: +90 555 444 77 99
